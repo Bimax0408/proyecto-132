@@ -1,0 +1,79 @@
+body {
+    background-size: cover;
+}
+
+#boton {
+    font-family: 'Fredoka';
+    font-size: 30px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: 3px;
+    border-style: solid;
+}
+
+
+h1 {
+    font-family: 'Fredoka';
+    font-size: 50px;
+}
+
+h1 {
+    background-color: rgb(247, 255, 137);
+    border-radius: 35px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    width: 500px;
+    font-family: 'Fredoka', sans-serif;
+    vertical-align: middle;
+    line-height: 90px;
+}
+
+body {
+    background-size: cover;
+}
+
+h2 {
+    background-color: rgb(250, 255, 187);
+    border-radius: 35px;
+    border-style: solid;
+    height: 50px;
+    text-align: center;
+    width: fit-content;
+    font-family: 'Fredoka', sans-serif;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+canvas {
+    margin-top: 100px;
+    border-radius: 35px;
+    border-style: solid;
+}
+
+h3 {
+    font-family: 'Fredoka';
+    font-size: 50px;
+}
+
+h3 {
+    background-color: rgb(247, 255, 137);
+    border-radius: 35px;
+    border-style: solid;
+    height: 100px;
+    text-align: center;
+    width: fit-content;
+    font-family: 'Fredoka', sans-serif;
+    vertical-align: middle;
+    line-height: 90px;
+}
+
+#h {
+    float: left;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-width: 5px;
+    font-size: 30px;
+    border-style: solid;
+    font-family: 'Fredoka';
+}
